@@ -269,7 +269,7 @@
           },
           "title": "O Que é a Bignash?",
           "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et ornare nisl. Maecenas ac felis a sem ultricies congue nec quis felis. Nullam quis auctor elit. In quis ullamcorper turpis. Sed vitae finibus libero. Donec vestibulum imperdiet nulla, et accumsan tellus accumsan ut. Duis nec dolor commodo, pharetra lectus suscipit, vulputate ex. Mauris ullamcorper sed massa sed facilisis. Nulla pellentesque dui tellus, sed finibus nulla interdum quis.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTRE EM CONTATO</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"BigNash#form1-5\" data-toolbar=\"-mbrBtnMove\">ENTRE EM CONTATO</a>"
         },
         {
           "_inherit": "social-buttons2",
