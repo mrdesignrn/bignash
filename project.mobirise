@@ -268,7 +268,7 @@
             "showButton": true
           },
           "title": "O Que é a Bignash?",
-          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et ornare nisl. Maecenas ac felis a sem ultricies congue nec quis felis. Nullam quis auctor elit. In quis ullamcorper turpis. Sed vitae finibus libero. Donec vestibulum imperdiet nulla, et accumsan tellus accumsan ut. Duis nec dolor commodo, pharetra lectus suscipit, vulputate ex. Mauris ullamcorper sed massa sed facilisis. Nulla pellentesque dui tellus, sed finibus nulla interdum quis.</p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Treinamento e serviços de assessoria, consultoria, orientação e assistência operacional para a gestão do seu negócio. Posicionamos seu negócio no topo do mercado.</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"BigNash#form1-5\" data-toolbar=\"-mbrBtnMove\">ENTRE EM CONTATO</a>"
         },
         {
